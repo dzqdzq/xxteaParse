@@ -1,0 +1,30 @@
+{
+  "name": "xxtea-parse",
+  "version": "1.0.1",
+  "description": "xxtea decrypt file",
+  "author": "dzqdzq",
+  "main": "xxteaParse.js",
+  "type": "module",
+  "keywords": [
+    "xxtea",
+    "decrypt",
+    "cocos",
+    "crack",
+    "creator",
+    "解密",
+    "破解",
+    "dzqdzq"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dzqdzq/xxteaParse.git"
+  },
+  "bin": {
+    "xxteaParse": "bin/cmd.js",
+    "xxtea-parse": "bin/cmd.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^18.0.0"
+  }
+}
