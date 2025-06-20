@@ -1,5 +1,5 @@
 # xxteaParse
-
+[English](./README.md) | [中文](./README.zh-CN.md)
 对xxtea加密文件进行解密, 如果检查到gzip压缩文件, 则自动解压。 主要用于cocos项目
 
 ## 安装

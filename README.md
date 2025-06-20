@@ -1,5 +1,5 @@
 # xxteaParse
-
+[English](./README.md) | [中文](./README.zh-CN.md)
 Decrypts files encrypted with XXTEA. If a Gzip compressed file is detected, it will be automatically decompressed. Mainly used for Cocos projects.
 
 ## Installation
