@@ -42,6 +42,12 @@ const argv = yargs(hideBin(process.argv))
     })
     .help()
     .alias('help', 'h')
+    .epilog(`示例: 
+xxteaParse \\
+--xxtea_key="eeb98a54-be7d-48" \\
+--input="/cocosproj/assets/" \\
+--parse_ext="jsc,tsc,png" \\
+--replace_ext="js,js,png"`)
     .argv;
 
 function processExt(filters){
